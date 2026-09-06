@@ -2,7 +2,7 @@
 
 🎓 IT Graduate | Software Developer | Cloud & Power Platform Enthusiast
 💻 Passionate about building practical systems that solve real-world problems
-☁️ AWS Certified | Microsoft Power Platform Certified
+☁️ AWS Certified(Cloud Practitioner,Developer Associates,DevOps Engineer Profesional) | Microsoft Power Platform Certified(PL100,PL200,PL400)
 
 
 
